@@ -1,0 +1,6 @@
+2025.11.09 17:05:36 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mauro/project/microservice_laravel/config/.metals/lsp.trace.json or /home/mauro/.cache/metals/lsp.trace.json[0m
+2025.11.09 17:05:37 INFO  logging to file /home/mauro/project/microservice_laravel/config/.metals/metals.log[0m
+2025.11.09 17:05:37 INFO  Started: Metals version 0.11.2 in workspace '/home/mauro/project/microservice_laravel/config' for client coc.nvim 0.0.82.[0m
+2025.11.09 17:05:37 INFO  Parse release: 21.0.8[0m
+2025.11.09 17:05:39 INFO  time: initialize in 2.02s[0m
+2025.11.09 17:05:39 WARN  Build server is not auto-connectable.[0m
