@@ -18,3 +18,17 @@
 2025.11.09 18:15:47 INFO  time: initialize in 2.46s[0m
 2025.11.09 18:15:47 WARN  Build server is not auto-connectable.[0m
 2025.11.09 18:15:48 INFO  skipping build import with status 'Requested'[0m
+2025.11.11 11:53:16 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mauro/project/microservice_laravel/config/.metals/lsp.trace.json or /home/mauro/.cache/metals/lsp.trace.json[0m
+2025.11.11 11:53:17 INFO  logging to file /home/mauro/project/microservice_laravel/config/.metals/metals.log[0m
+2025.11.11 11:53:17 INFO  Started: Metals version 0.11.2 in workspace '/home/mauro/project/microservice_laravel/config' for client coc.nvim 0.0.82.[0m
+2025.11.11 11:53:17 INFO  Parse release: 21.0.8[0m
+2025.11.11 11:53:20 INFO  time: initialize in 2.94s[0m
+2025.11.11 11:53:20 WARN  Build server is not auto-connectable.[0m
+2025.11.11 11:53:20 INFO  skipping build import with status 'Requested'[0m
+2025.11.11 12:49:55 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mauro/project/microservice_laravel/config/.metals/lsp.trace.json or /home/mauro/.cache/metals/lsp.trace.json[0m
+2025.11.11 12:49:56 INFO  logging to file /home/mauro/project/microservice_laravel/config/.metals/metals.log[0m
+2025.11.11 12:49:56 INFO  Started: Metals version 0.11.2 in workspace '/home/mauro/project/microservice_laravel/config' for client coc.nvim 0.0.82.[0m
+2025.11.11 12:49:56 INFO  Parse release: 21.0.8[0m
+2025.11.11 12:49:58 INFO  time: initialize in 2.13s[0m
+2025.11.11 12:50:02 WARN  Build server is not auto-connectable.[0m
+2025.11.11 12:50:02 INFO  skipping build import with status 'Requested'[0m
