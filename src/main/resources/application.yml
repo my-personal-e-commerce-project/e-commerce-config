@@ -11,4 +11,11 @@ spring:
         git:
           uri: https://github.com/my-personal-e-commerce-project/config-repo
           default-label: main
-
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-service-1/eureka/
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    prefer-ip-address: true
