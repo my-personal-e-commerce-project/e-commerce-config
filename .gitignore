@@ -3,6 +3,11 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.env
+
+.metals/metals.lock.db
+.metals/metals.log
+.metals/metals.mv.db
 
 ### STS ###
 .apt_generated
