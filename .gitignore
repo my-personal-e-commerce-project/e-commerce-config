@@ -5,6 +5,8 @@ target/
 !**/src/test/**/target/
 .env
 
+.metals/
+
 .metals/metals.lock.db
 .metals/metals.log
 .metals/metals.mv.db
